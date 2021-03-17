@@ -1,0 +1,20 @@
+{
+  "name": "mystickbot",
+  "version": "1.0.0",
+  "description": "Bot gestione ds mc",
+  "main": "index.js",
+  "scripts": {
+    "test": "m!ciao"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Ciao!"
+  },
+  "author": "ItzGiuspHim",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
